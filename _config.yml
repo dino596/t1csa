@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Arthur Liu
 github_username: nighthawkcoders
-github_repo: "t1csa" 
-baseurl: "/t1csa"
+github_repo: "arthur_2025" 
+baseurl: "/arthur_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
